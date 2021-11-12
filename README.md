@@ -1,2 +1,2 @@
-# siamese-networks
-This repository contains code for a simple Siamese Network Architecture.
+# Siamese-networks
+This repository contains code for a simple Siamese Network Architecture. The model is used to check the image similarity of 2 [MNSIT](https://github.com/zalandoresearch/fashion-mnist) image pairs. Common use cases of Siamese Networks are Facial Verification, Signature Verification, etc. For more information about Siamese Networks please refer to this [paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf).
